@@ -1,4 +1,4 @@
-This repository contains a comprehensive pipeline for image processing and analysis, specifically designed for handling images from a Canon camera, converting them to a more accessible format, and performing various operations to analyze differences between images. This pipeline also includes functionality for calculating distances and mapping locations.
+This repository contains a comprehensive pipeline for image processing and analysis, specifically designed for handling images from a Canon camera, converting them to a more accessible format, and performing various operations to analyze differences between images. This pipeline also includes functionality for calculating distances and mapping locations. Note that I have retracted parts of the code due to the possibility of possible malicious use. If you would like to see the full code, please reach out to me. 
 
 Features
 
