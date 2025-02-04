@@ -92,3 +92,11 @@ The project uses images captured using a Canon camera in RAW format. The dataset
 ## Acknowledgments
 
 This project is developed to enhance the detection and localization of camouflaged vehicles using state-of-the-art computer vision techniques and geospatial analysis. Special thanks to the developers of YOLOv5, Geopy, and EXIFTool for providing robust tools and libraries.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For questions or feedback, feel free to reach out:
+- **Email:** Adam.RivardWalter@gmail.com  
+- **GitHub:** [adamw80](https://github.com/adamw80)
